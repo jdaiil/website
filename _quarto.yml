@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+excute:
+  freeze: auto
 website:
   title: "Daiil Jun"
   navbar:
@@ -19,4 +21,5 @@ format:
     toc: true
 
 editor: visual
+
 
