@@ -1,0 +1,23 @@
+---
+title: "Daiil Jun"
+about:
+  template: jolla
+  image: Daiil_photo.jpg
+  links:
+    - icon: person-workspace
+      text: lab website
+      href: https://fazzinolab.ku.edu/
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=t6o0sOoAAAAJ&hl=en&oi=ao
+    - icon: envelope
+      text: Email
+      href: "mailto:jdaiil@ku.edu"
+    - icon: file-person-fill
+      text: CV
+      href: https://kansas-my.sharepoint.com/:b:/g/personal/d497j944_home_ku_edu/EVNbsVhsJphOqefnUSAvU4UB7HhZJJceXkaJD_Sv6QCCgQ?e=a2g8A1
+---
+
+Welcome to my website!
+
+I am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. I am originally from Seoul, South Korea. My research interest is applying advanced statistical methods to understanding addictive behaviors. Especially, I am interested in cross-sensitization across different addictive behaviors. Currently, my research is mostly about understanding shared mechanism of eating hyper-palatable foods and addiction.
