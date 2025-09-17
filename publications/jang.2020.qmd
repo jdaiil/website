@@ -1,0 +1,18 @@
+---
+title: "A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0"
+type: "article"
+author: "S Jang, D Jun, M Lee, S Shin"
+year: "2020"
+publication: "The Korean Association Rehabilitation Psychology"
+materials: "http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=5bfe8057463e3b537ecd42904f0c5d65&keyword=%EC%A0%84%EB%8C%80%EC%9D%BC%20%EC%9D%B4%EB%AF%BC%EC%A3%BC"
+toc: false
+---
+
+## Citation (APA 7)
+
+> S Jang, D Jun, M Lee, & S Shin. (2020). A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0. *The Korean Association Rehabilitation Psychology*, 27 (4), 67–82.
+
+
+## Abstract
+
+This study aimed to validate the Korean version of the Clinical Video game Addiction Test 2.0 (C-VAT 2.0). The C-VAT 2.0 scale developed by Van Rooij, Schoenmakers, and Van de Mheen(2017) were translated into Korean and back-translated into English to check its accuracy. A sample of 714 college students were recruited from online survey. A field test of the psychometric properties of the scale was conducted using exploratory factor analysis(EFA) and confirmatory factor analysis(CFA). The EFA results suggested one-factor model and 11 items that the original scale is composed of. The CFA results showed aceeptable goodness of model fit, and reliability coefficient(KR-20) was acceptable(.743). Convergent and concurrent validity were confirmed by conducting correlation test using Korean version of the Internet Gaming Disorder Scale, Korean Beck Depression Inventory-II, Korean Beck Anxiety Inventory, and Korean version of the Brief Self-Control Scale. The Korean version of the C-VAT 2.0 appeared to be acceptable, reliable, and valid instrument. Implications of this study were discussed.

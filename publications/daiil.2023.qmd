@@ -1,0 +1,16 @@
+---
+title: "Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen"
+type: "article"
+author: "Jun, Daiil,& Fazzino,Tera"
+year: "2023"
+publication: "International Journal of Environmental Research and Public Health"
+doi: "https://doi.org/10.3390/ijerph20042884"
+materials: "https://www.mdpi.com/1660-4601/20/4/2884"
+toc: false
+---
+## Citation (APA 7)
+
+> Jun, D., & Fazzino, T. L. (2023). Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen. International Journal of Environmental Research and Public Health, *International Journal of Environmental Research and Public Health, 20*(4), 2884.
+
+## Abstract
+Co-use of alcohol and cannabis is common among young adults in the United States. A behavioral economics framework indicates that greater engagement in substance-free sources of reinforcement may be protective against co-use frequency. The current study tested the association between proportionate alcohol-free reinforcement and the frequency of co-use among college freshmen. Participants (N = 86) were freshmen who enrolled in a freshman orientation course and completed surveys at the beginning of the semester. Past month alcohol use, cannabis use, and reinforcement from alcohol-free and alcohol-involved activities were assessed. A zero-inflated Poisson regression was used to test the association between proportionate alcohol-free reinforcement and days of co-use. The results indicated that proportionate alcohol-free reinforcement was negatively associated with co-use days in the count model when controlling for alcohol use days and gender as covariates (β: −3.28, p = 0.016). Proportionate alcohol-free reinforcement did not significantly differentiate individuals who did not engage in co-use in the zero-inflated model (β: −1.68, p = 0.497). The study suggested that greater proportionate alcohol-free reinforcement may be associated with lower engagement in the co-use of alcohol and cannabis among young adults. Increasing engagement in alcohol-free sources of reinforcement may be considered a target for co-use prevention or harm reduction efforts.

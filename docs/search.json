@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Daiil Jun",
-    "section": "",
-    "text": "Welcome to my website!\nI am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. I am originally from Seoul, South Korea. My research interest is applying advanced statistical methods to understanding addictive behaviors. I am interested in especially cross-sensitization across different addictive behaviors. Currently, my research is mostly about understanding shared mechanism of eating hyper-palatable foods and addiction.\n\nddd"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "This is home",
-    "section": "",
-    "text": "This is home"
-  },
-  {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Publication",
-    "section": "",
-    "text": "😅ddd"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Reserach",
@@ -40,5 +19,103 @@
     "title": "Reserach",
     "section": "Research 2",
     "text": "Research 2"
+  },
+  {
+    "objectID": "publications/fazzino.2023.html",
+    "href": "publications/fazzino.2023.html",
+    "title": "US tobacco companies selectively disseminated hyper-palatable foods into the US food system: Empirical evidence and current implications",
+    "section": "",
+    "text": "Fazzino, T. L., Jun, D., Chollet‐Hinton, L., & Bjorlie, K. (2023). US tobacco companies selectively disseminated hyper‐palatable foods into the US food system: Empirical evidence and current implications. Addiction."
+  },
+  {
+    "objectID": "publications/fazzino.2023.html#citation-apa-7",
+    "href": "publications/fazzino.2023.html#citation-apa-7",
+    "title": "US tobacco companies selectively disseminated hyper-palatable foods into the US food system: Empirical evidence and current implications",
+    "section": "",
+    "text": "Fazzino, T. L., Jun, D., Chollet‐Hinton, L., & Bjorlie, K. (2023). US tobacco companies selectively disseminated hyper‐palatable foods into the US food system: Empirical evidence and current implications. Addiction."
+  },
+  {
+    "objectID": "publications/fazzino.2023.html#abstract",
+    "href": "publications/fazzino.2023.html#abstract",
+    "title": "US tobacco companies selectively disseminated hyper-palatable foods into the US food system: Empirical evidence and current implications",
+    "section": "Abstract",
+    "text": "Abstract\nBackground and aims\nUS tobacco companies owned leading US food companies from 1980 to 2001. We measured whether hyper-palatable foods (HPF) were disproportionately developed in tobacco-owned food companies, resulting in substantial tobacco-related influence on the US food system.\nDesign\nThe study involved a review of primary industry documents to identify food brands that were tobacco company-owned. Data sets from the US Department of Agriculture were integrated to facilitate longitudinal analyses estimating the degree to which foods were formulated to be hyper-palatable, based on tobacco ownership.\nSetting and cases\nUnited States Department of Agriculture data sets were used to identify HPF foods that were (n = 105) and were not (n = 587) owned by US tobacco companies from 1988 to 2001.\nMeasurements\nA standardized definition from Fazzino et al. (2019) was used to identify HPF. HPF items were identified overall and by HPF group: fat and sodium HPF, fat and sugar HPF and carbohydrates and sodium HPF.\nFindings\nTobacco-owned foods were 29% more likely to be classified as fat and sodium HPF and 80% more likely to be classified as carbohydrate and sodium HPF than foods that were not tobacco-owned between 1988 and 2001 (P-values = 0.005–0.009). The availability of fat and sodium HPF (&gt; 57%) and carbohydrate and sodium HPF (&gt; 17%) was high in 2018 regardless of prior tobacco-ownership status, suggesting widespread saturation into the food system.\nConclusions\nTobacco companies appear to have selectively disseminated hyper-palatable foods into the US food system between 1988 and 2001."
+  },
+  {
+    "objectID": "publications/chapa.2022.html",
+    "href": "publications/chapa.2022.html",
+    "title": "Eating-disorder psychopathology in female athletes and non-athletes: A meta-analysis",
+    "section": "",
+    "text": "Chapa, D. A. N., Johnson, S. N., Richson, B. N., Bjorlie, K., Won, Y. Q., Nelson, S. V., Ayres, J., Jun, D., Forbush, K. T., Christensen, K. A., & Perko, V. L. (2022). Eating-disorder psychopathology in female athletes and non-athletes: A meta-analysis. International Journal of Eating Disorders, 55(7), 861–885. https://doi.org/10.1002/eat.23748."
+  },
+  {
+    "objectID": "publications/chapa.2022.html#citation-apa-7",
+    "href": "publications/chapa.2022.html#citation-apa-7",
+    "title": "Eating-disorder psychopathology in female athletes and non-athletes: A meta-analysis",
+    "section": "",
+    "text": "Chapa, D. A. N., Johnson, S. N., Richson, B. N., Bjorlie, K., Won, Y. Q., Nelson, S. V., Ayres, J., Jun, D., Forbush, K. T., Christensen, K. A., & Perko, V. L. (2022). Eating-disorder psychopathology in female athletes and non-athletes: A meta-analysis. International Journal of Eating Disorders, 55(7), 861–885. https://doi.org/10.1002/eat.23748."
+  },
+  {
+    "objectID": "publications/chapa.2022.html#abstract",
+    "href": "publications/chapa.2022.html#abstract",
+    "title": "Eating-disorder psychopathology in female athletes and non-athletes: A meta-analysis",
+    "section": "Abstract",
+    "text": "Abstract\nObjective\nThere is ongoing discussion about whether sports participation is a risk or protective factor for eating disorders (EDs). Research is mixed, with some studies suggesting that athletes have higher mean levels of ED psychopathology compared to nonathletes, while other studies suggest the opposite effect or no differences. The purpose of the current meta-analysis was to identify whether female athletes reported higher mean levels of ED psychopathology compared to nonathletes.\nMethod\nFollowing PRISMA guidelines, we identified 56 studies that reported ED psychopathology for female athletes and nonathletes. A three-level random-effects model of between- and within-study variance was completed for the following outcome variables: overall ED psychopathology, body dissatisfaction, drive for thinness, restricting, and loss-of-control eating.\nResults\nAthletes reported lower levels of body dissatisfaction compared to nonathletes (g = −.21, p &lt; .0001). Athletes and nonathletes reported similar levels of overall ED psychopathology, drive for thinness, restricting, and loss-of-control eating on average. Sport type significantly moderated standardized mean difference effect sizes of ED psychopathology in athletes versus nonathletes. Effect sizes comparing levels of drive for thinness, restricting, and loss-of-control eating in athletes versus nonathletes were larger for studies with athletes participating in aesthetic/lean sports compared to nonaesthetic/nonlean sports.\nDiscussion\nFindings from this meta-analysis could inform future ED prevention and treatment in female athletes by providing further evidence that athletes in aesthetic/lean sports may report higher levels of ED psychopathology. Participating in nonaesthetic/nonlean sports may be a protective factor for experiencing less body dissatisfaction.\nPublic Significance Statement\nThe current meta-analysis summarized findings from 56 studies that assessed levels of disordered eating, body dissatisfaction, dietary restricting, and loss-of-control eating in female athletes and nonathletes. Athletes reported lower levels of body dissatisfaction compared to nonathletes, highlighting that participation in sport could have some protective factors.\nAthletes participating in sports that require weight categories (e.g., judo) and sports that emphasize thinness/leanness (e.g., gymnastics and distance running) had higher levels of disordered eating relative to athletes participating in other types of sports that do not emphasize thinness/leanness (e.g., volleyball and basketball)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daiil Jun",
+    "section": "",
+    "text": "Welcome to my website!\nI am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. Currently, I am under dual mentorship from Dr. Fazzino and Dr. Girard. My research interest is to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). My long-term goal is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and enable preemptive interventions."
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen\n    Jun, Daiil,& Fazzino,Tera\n    International Journal of Environmental Research and Public Health\n    (2023)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    US tobacco companies selectively disseminated hyper-palatable foods into the US food system: Empirical evidence and current implications\n    Tera L. Fazzino, Daiil Jun, Lynn Chollet-Hinton, Kayla Bjorlie\n    Addiction\n    (2023)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Eating-disorder psychopathology in female athletes and non-athletes: A meta-analysis\n    Danielle A. N. Chapa, Sarah N. Johnson, Brianne N. Richson, Kayla Bjorlie, Ying Q. Won, Sarah V. Nelson, Joseph Ayres, Daiil Jun, Kelsie T. Forbush, Kara A. Christensen, Victoria L. Perko\n    International Journal of Eating Disorders\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0\n    S Jang, D Jun, M Lee, S Shin\n    The Korean Association Rehabilitation Psychology\n    (2020)\n    \n      Details\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/daiil.2023.html",
+    "href": "publications/daiil.2023.html",
+    "title": "Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen",
+    "section": "",
+    "text": "Jun, D., & Fazzino, T. L. (2023). Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen. International Journal of Environmental Research and Public Health, International Journal of Environmental Research and Public Health, 20(4), 2884."
+  },
+  {
+    "objectID": "publications/daiil.2023.html#citation-apa-7",
+    "href": "publications/daiil.2023.html#citation-apa-7",
+    "title": "Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen",
+    "section": "",
+    "text": "Jun, D., & Fazzino, T. L. (2023). Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen. International Journal of Environmental Research and Public Health, International Journal of Environmental Research and Public Health, 20(4), 2884."
+  },
+  {
+    "objectID": "publications/daiil.2023.html#abstract",
+    "href": "publications/daiil.2023.html#abstract",
+    "title": "Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen",
+    "section": "Abstract",
+    "text": "Abstract\nCo-use of alcohol and cannabis is common among young adults in the United States. A behavioral economics framework indicates that greater engagement in substance-free sources of reinforcement may be protective against co-use frequency. The current study tested the association between proportionate alcohol-free reinforcement and the frequency of co-use among college freshmen. Participants (N = 86) were freshmen who enrolled in a freshman orientation course and completed surveys at the beginning of the semester. Past month alcohol use, cannabis use, and reinforcement from alcohol-free and alcohol-involved activities were assessed. A zero-inflated Poisson regression was used to test the association between proportionate alcohol-free reinforcement and days of co-use. The results indicated that proportionate alcohol-free reinforcement was negatively associated with co-use days in the count model when controlling for alcohol use days and gender as covariates (β: −3.28, p = 0.016). Proportionate alcohol-free reinforcement did not significantly differentiate individuals who did not engage in co-use in the zero-inflated model (β: −1.68, p = 0.497). The study suggested that greater proportionate alcohol-free reinforcement may be associated with lower engagement in the co-use of alcohol and cannabis among young adults. Increasing engagement in alcohol-free sources of reinforcement may be considered a target for co-use prevention or harm reduction efforts."
+  },
+  {
+    "objectID": "publications/jang.2020.html",
+    "href": "publications/jang.2020.html",
+    "title": "A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0",
+    "section": "",
+    "text": "S Jang, D Jun, M Lee, & S Shin. (2020). A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0. The Korean Association Rehabilitation Psychology, 27 (4), 67–82."
+  },
+  {
+    "objectID": "publications/jang.2020.html#citation-apa-7",
+    "href": "publications/jang.2020.html#citation-apa-7",
+    "title": "A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0",
+    "section": "",
+    "text": "S Jang, D Jun, M Lee, & S Shin. (2020). A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0. The Korean Association Rehabilitation Psychology, 27 (4), 67–82."
+  },
+  {
+    "objectID": "publications/jang.2020.html#abstract",
+    "href": "publications/jang.2020.html#abstract",
+    "title": "A Validation of the Korean Version of the Clinical Video Game Addiction Test 2.0",
+    "section": "Abstract",
+    "text": "Abstract\nThis study aimed to validate the Korean version of the Clinical Video game Addiction Test 2.0 (C-VAT 2.0). The C-VAT 2.0 scale developed by Van Rooij, Schoenmakers, and Van de Mheen(2017) were translated into Korean and back-translated into English to check its accuracy. A sample of 714 college students were recruited from online survey. A field test of the psychometric properties of the scale was conducted using exploratory factor analysis(EFA) and confirmatory factor analysis(CFA). The EFA results suggested one-factor model and 11 items that the original scale is composed of. The CFA results showed aceeptable goodness of model fit, and reliability coefficient(KR-20) was acceptable(.743). Convergent and concurrent validity were confirmed by conducting correlation test using Korean version of the Internet Gaming Disorder Scale, Korean Beck Depression Inventory-II, Korean Beck Anxiety Inventory, and Korean version of the Brief Self-Control Scale. The Korean version of the C-VAT 2.0 appeared to be acceptable, reliable, and valid instrument. Implications of this study were discussed."
   }
 ]
