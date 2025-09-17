@@ -23,4 +23,4 @@ about:
 
 Welcome to my website!
 
-I am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. Currently, I am under dual mentorship from Dr. Fazzino and Dr. Girard. My research interest is to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). My long-term goal is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and enable preemptive interventions. 
+I am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. Currently, I am under dual mentorship from Dr. Fazzino and Dr. Girard. My research interest is to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). My long-term goal is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and enable preemptive interventions.
