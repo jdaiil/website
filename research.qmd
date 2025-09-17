@@ -15,7 +15,7 @@ format:
 
 Understanding the properties of foods that promote addictive-like eating, focusing on the food environment and individual behaviors.
 
-**Key Projects & Findings:**
+**Key Projects:**
 
 -   Investigated the historical role of U.S. tobacco companies in disseminating hyper-palatable foods.
 -   Demonstrated that real-time consumption of these foods is associated with increased energy intake using EMA.
@@ -24,14 +24,15 @@ Understanding the properties of foods that promote addictive-like eating, focusi
 :::
 
 ::: {.research-card}
-### 💻 Precision Psychiatry
+### 💻 Precision & Computational Psychiatry
 
-Applying computational methods to intensive longitudinal data to understand reward dysfunction as a transdiagnostic mechanism in SMI.
+Applying computational methods to understand transdiagnostic mechanisms in SMI and to leverage novel technology (e.g, LLMs) for enhancing clinical assessment. 
 
-**Key Projects & Findings:**
+**Key Projects:**
 
--   Analyzed daily symptom reports and audio diaries from outpatients with affective and psychotic disorders.
+-   Analyzed a intensive longitudinal data set to understand transdiagnostic symptom changes in relation to daily symptoms and speech features from outpatients with affective and psychotic disorders.
 -   Leveraged large language models (LLMs) to derive clinically meaningful information (e.g., sentiment) from naturalistic speech.
+-   Using LLMs to classify PTSD conditions based on patients' interview transcripts. 
 :::
 
 ::: {.research-card}
@@ -39,9 +40,9 @@ Applying computational methods to intensive longitudinal data to understand rewa
 
 Investigating shared mechanisms linking substance use with other reward-driven health behaviors, particularly food valuation.
 
-**Key Projects & Findings:**
+**Key Projects:**
 
--   **(Dissertation)** Examined acute effects of alcohol on the momentary valuation of hyper-palatable foods using EMA.
+-   **(Dissertation)** proposed to examine acute effects of alcohol on the momentary valuation of hyper-palatable foods using EMA.
 -   Studied links between alcohol-free reinforcement and co-use of alcohol and cannabis in college students.
 :::
 
