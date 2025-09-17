@@ -1,39 +1,50 @@
 ---
-pagetitle: "Reserach Interests"
-toc: false
+title: "Research Projects"
+subtitle: "My research seeks to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). The long-term goal is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and facilitate preemptive interventions."
+format:
+  html:
+    css: styles.css
+    page-layout: full
 ---
 
 
-My research interests seek to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). The long-term objective is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and facilitate preemptive interventions. This work integrates addiction science with advanced computational and statistical methods to study behavior from a within-person perspective.
+::: {.grid}
 
-::: {.columns}
+::: {.research-card}
+### 🍔 Maladaptive Eating & Hyper-Palatable Foods
 
-::: {.column width="50%"}
+Understanding the properties of foods that promote addictive-like eating, focusing on the food environment and individual behaviors.
 
-### Maladaptive Eating and Hyper-Palatable Foods
+**Key Projects & Findings:**
 
-A primary focus of my research is to understand the inherent properties of certain foods that may promote addictive-like eating behaviors. This work examines the characteristics of hyper-palatable foods and their influence on the food environment and individual eating behaviors. 
+-   Investigated the historical role of U.S. tobacco companies in disseminating hyper-palatable foods.
+-   Demonstrated that real-time consumption of these foods is associated with increased energy intake using EMA.
+-   Used Item Response Theory to identify sex differences in food-specific cravings.
+-   Systematic review of EMA studies on food craving.
+:::
 
-My research has:
-- Identified the historical role of U.S. tobacco companies in the dissemination of hyper-palatable foods into the U.S. food system.
-- Empirically demonstrated that real-time consumption of these foods is associated with increased energy intake and experiences of overeating, using ecological momentary assessment and remote food photography methods.
-- Used Item Response Theory to identify sex differences in food-specific cravings.
-- Included a systematic review of ecological momentary assessment studies on food craving.
+::: {.research-card}
+### 💻 Precision Psychiatry
+
+Applying computational methods to intensive longitudinal data to understand reward dysfunction as a transdiagnostic mechanism in SMI.
+
+**Key Projects & Findings:**
+
+-   Analyzed daily symptom reports and audio diaries from outpatients with affective and psychotic disorders.
+-   Leveraged large language models (LLMs) to derive clinically meaningful information (e.g., sentiment) from naturalistic speech.
+:::
+
+::: {.research-card}
+### 🍷 Substance Use & Reward-Driven Behaviors
+
+Investigating shared mechanisms linking substance use with other reward-driven health behaviors, particularly food valuation.
+
+**Key Projects & Findings:**
+
+-   **(Dissertation)** Examined acute effects of alcohol on the momentary valuation of hyper-palatable foods using EMA.
+-   Studied links between alcohol-free reinforcement and co-use of alcohol and cannabis in college students.
+:::
 
 :::
 
-::: {.column width="50%"}
 
-### Computational Psychiatry and Digital Phenotyping
-
-My work extends the concept of reward dysfunction to its role as a transdiagnostic mechanism in individuals with Serious Mental Illness (SMI). In collaboration with Dr. Justin Baker’s team at McLean Hospital, I apply computational methods to complex, intensive longitudinal data from outpatients with affective and psychotic disorders. 
-
-This research analyzes daily symptom reports, audio diaries, and clinical interviews to uncover transdiagnostic symptom structures and their associations with objective features of speech. A significant component of this work involves leveraging large language models (LLMs) to derive clinically meaningful information from naturalistic speech, such as assessing sentiment.
-
-### Substance Use and Reward-Driven Behaviors
-
-This line of research investigates the shared mechanisms that link substance use with other reward-driven health behaviors. My dissertation examines the acute effects of alcohol consumption on the momentary valuation of hyper-palatable foods, utilizing ecological momentary assessment to capture these dynamics in real-time. The first work in this topic investigated the associations between alcohol-free sources of reinforcement and the frequency of alcohol and cannabis co-use in college students.
-
-:::
-
-:::

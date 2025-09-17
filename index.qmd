@@ -1,5 +1,6 @@
 ---
 title: "Daiil Jun"
+toc: false
 about:
   template: jolla
   image: Daiil_pic.jpg
@@ -21,6 +22,8 @@ about:
       href: https://raw.githubusercontent.com/jdaiil/website/main/Academic_CV_2025_DJ.pdf
 ---
 
-### Welcome!
+**Welcome to my website!**
 
-I am Daiil (pronounced Dale) who is a Ph.D Candidate in Clinical Psychological Science program at the University of Kansas. Currently, I am under dual mentorship from [Dr. Fazzino](https://fazzinolab.ku.edu/people/tera-fazzino) and [Dr. Girard](https://psychology.ku.edu/people/jeffrey-girard). My research interest is to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). My long-term goal is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and enable preemptive interventions.
+I am Daiil (pronounced Dale), a Ph.D. Candidate in the Clinical Psychological Science program at the University of Kansas. I am under the dual mentorship of [Dr. Tera Fazzino](https://fazzinolab.ku.edu/people/tera-fazzino) and [Dr.Jeffrey Girard](https://psychology.ku.edu/people/jeffrey-girard).
+
+My research interest is to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). My long-term goal is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and enable preemptive interventions.

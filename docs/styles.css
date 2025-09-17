@@ -1,1 +1,69 @@
-/* css styles */
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* Main body and typography styles */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f9fafb; /* bg-gray-50 */
+}
+
+/* Use serif font for headings for a more academic look */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif;
+}
+
+/* NEW: Grid layout for the research cards 
+  This is the main fix.
+*/
+.grid {
+    display: grid;
+    /* Create responsive columns that are at least 300px wide 
+       and stretch to fill the container equally. */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem; /* This adds space between the cards (replaces margin-bottom) */
+}
+
+/* Custom style for the research pillar cards */
+.research-card {
+    background-color: #ffffff; /* bg-white */
+    padding: 1.5rem; /* p-6 */
+    border-radius: 0.75rem; /* rounded-xl */
+    border: 1px solid #e5e7eb; /* border-gray-200 */
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1); /* shadow-md */
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+    /* margin-bottom was removed in favor of the 'gap' property on .grid */
+}
+
+.research-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1); /* shadow-xl */
+}
+
+.research-card h3 {
+    font-size: 1.5rem; /* text-2xl */
+    font-weight: 700; /* font-bold */
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.research-card ul {
+    padding-left: 20px;
+}
+
+/* Header styling */
+.quarto-title-block {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.quarto-title-block .quarto-title-meta {
+    text-align: center;
+}
+
+p.subtitle {
+    max-width: 48rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.125rem; /* text-lg */
+    color: #4b5563; /* text-gray-600 */
+}
