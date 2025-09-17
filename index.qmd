@@ -2,6 +2,7 @@
 title: "Daiil Jun"
 about:
   template: jolla
+<<<<<<< HEAD
   image: Daiil_pic.jpg
   links:
     - icon: person-workspace
@@ -10,6 +11,13 @@ about:
     - icon: person-workspace
       text: AffCom Lab
       href: https://affcom.ku.edu/  
+=======
+  image: Daiil_photo.jpg
+  links:
+    - icon: person-workspace
+      text: lab website
+      href: https://fazzinolab.ku.edu/
+>>>>>>> ec91232b822b7c0b99b4459d6efa173f7519b78b
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com/citations?user=t6o0sOoAAAAJ&hl=en&oi=ao
@@ -18,9 +26,17 @@ about:
       href: "mailto:jdaiil@ku.edu"
     - icon: file-person-fill
       text: CV
+<<<<<<< HEAD
       href: Academic_CV_2025_DJ.pdf
+=======
+      href: https://kansas-my.sharepoint.com/:b:/g/personal/d497j944_home_ku_edu/EVNbsVhsJphOqefnUSAvU4UB7HhZJJceXkaJD_Sv6QCCgQ?e=a2g8A1
+>>>>>>> ec91232b822b7c0b99b4459d6efa173f7519b78b
 ---
 
 Welcome to my website!
 
+<<<<<<< HEAD
 I am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. Currently, I am under dual mentorship from Dr. Fazzino and Dr. Girard. My research interest is to understand the transdiagnostic mechanisms of reward dysfunction that bridge maladaptive eating, substance use, and serious mental illness (SMI). My long-term goal is to leverage this understanding to develop real-time, personalized monitoring tools that can enhance psychiatric assessment and enable preemptive interventions.
+=======
+I am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. I am originally from Seoul, South Korea. My research interest is applying advanced statistical methods to understanding addictive behaviors. Especially, I am interested in cross-sensitization across different addictive behaviors. Currently, my research is mostly about understanding shared mechanism of eating hyper-palatable foods and addiction.
+>>>>>>> ec91232b822b7c0b99b4459d6efa173f7519b78b
