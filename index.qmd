@@ -18,7 +18,7 @@ about:
       href: "mailto:jdaiil@ku.edu"
     - icon: file-person-fill
       text: CV
-      href: https://github.com/jdaiil/website/blob/main/Academic_CV_2025_DJ.pdf
+      href: https://raw.githubusercontent.com/jdaiil/website/main/Academic_CV_2025_DJ.pdf
 ---
 
 Welcome to my website!
